@@ -1,6 +1,6 @@
 current_num = 10
 while current_num >0 do
-  if current_num == 10
+  if current_num == 0
     puts "Happy New Year!"
   end
   puts "#{current_num}"
